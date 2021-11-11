@@ -48,19 +48,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
         }
-/* Button myButton = findViewById(R.id.my_button);
 
-View IDs need not be unique throughout the tree, but it is good practice to ensure that they are
-at least unique within the part of the tree you are searching.
-https://developer.android.com/reference/android/view/View*/
-
-
-/*Bias in activity_main.xml
-    The default when encountering such opposite constraints is to center the widget; but you can tweak the positioning to favor one side over another using the bias attributes:
-
-    layout_constraintHorizontal_bias
-    layout_constraintVertical_bias
-
-    Fig. 5 - Centering Positioning with Bias
-    For example the following will make the left side with a 30% bias instead of the default 50%, such that the left side will be shorter, with the widget leaning more toward the left side (Fig. 5):
-*/
