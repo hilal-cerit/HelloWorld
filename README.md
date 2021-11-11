@@ -2,7 +2,7 @@
 * HelloWorldApp(using Android Studio).
 * This is the first app that I made in Android Studio.
 * I upload the image I use in the app(hello_world.PNG).
-* The app works when we click the "Click" button and a image turns into visible then if press again the same button ,image turns into invisible.
+* The app works when we click the "Click" button and a image turns into visible then if press the same button again ,image turns into invisible.
 ## States of App
 * First State of app
 
