@@ -12,6 +12,6 @@
 
 ![2 state](https://user-images.githubusercontent.com/77547891/141330461-aaaa31bf-3905-4922-ada1-5aebe5059a17.PNG)
 
-* Third State of app (the state that image turns into invisible again when we press again the "Click" button)
+* Third State of app (the state that image turns into invisible as the first state when we press the "Click" button again)
 
 ![3 state](https://user-images.githubusercontent.com/77547891/141330449-aa6ceeda-73e8-4982-801f-04a6190a1cce.PNG)
